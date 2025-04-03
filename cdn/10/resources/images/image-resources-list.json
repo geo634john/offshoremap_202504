@@ -1,0 +1,58 @@
+{
+  "1659085083335": {
+    "originalName": "logo.png",
+    "fileName": "1659085083335.png",
+    "size": 10863,
+    "url": "https://localhost:3001/apps/0/resources/images/widget_28/1659085083335.png?token=W9R8tETXLQvaLirKf0RoA3_XY_QNSGd9y_DealSfYXxdoPb-CzGSjT3qD723w4xtGNVkGCMS-JcjUH7v9iAfS-SmLCcfMJnueHnRu5MVptCmrSh2325lbGio4QRl6yDiVJhYRn3p6htIB2zltB1ly_c6Xzm88ysmeG3kNTNgoFwJHpt01foDNbCXv1R8OwRNsulYipC0Zqu4LrKEI4H9zSWxH4VpsvB1GXv49LyBHo8.",
+    "created": 1659085083335,
+    "resourcesPrefix": "images/widget_28",
+    "referedIds": [],
+    "originId": "1659085083335",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 101,
+    "originalHeight": 141
+  },
+  "1659085722421": {
+    "originalName": "csv.png",
+    "fileName": "1659085722421.png",
+    "size": 5458,
+    "url": "https://localhost:3001/apps/0/resources/images/widget_29/1659085722421.png?token=W9R8tETXLQvaLirKf0RoA3_XY_QNSGd9y_DealSfYXxdoPb-CzGSjT3qD723w4xtGNVkGCMS-JcjUH7v9iAfS-SmLCcfMJnueHnRu5MVptCmrSh2325lbGio4QRl6yDiVJhYRn3p6htIB2zltB1ly_c6Xzm88ysmeG3kNTNgoFwJHpt01foDNbCXv1R8OwRNsulYipC0Zqu4LrKEI4H9zSWxH4VpsvB1GXv49LyBHo8.",
+    "created": 1659085722421,
+    "resourcesPrefix": "images/widget_29",
+    "referedIds": [],
+    "originId": "1659085722421",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 384,
+    "originalHeight": 512
+  },
+  "1666056774673": {
+    "originalName": "logoEN.png",
+    "fileName": "1666056774673.png",
+    "size": 8463,
+    "url": "https://localhost:3001/apps/0/resources/images/widget_28/1666056774673.png?token=W9R8tETXLQvaLirKf0RoA3_XY_QNSGd9y_DealSfYXxdoPb-CzGSjT3qD723w4xtGNVkGCMS-JcjUH7v9iAfS-SmLCcfMJnueHnRu5MVptCmrSh2325lbGio4QRl6yDiVJhYRn3p6htIB2zltB1ly_c6Xzm88ysmeG3kNTNgoFwJHpt01foDNbCXv1R8OwRNsulYipC0Zqu4LrKEI4H9zSWxH4VpsvB1GXv49LyBHo8.",
+    "created": 1666056774673,
+    "resourcesPrefix": "images/widget_28",
+    "referedIds": [],
+    "originId": "1666056774673",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 101,
+    "originalHeight": 140
+  },
+  "1666173244764": {
+    "originalName": "logo_new.png",
+    "fileName": "1666173244764.png",
+    "size": 26868,
+    "url": "${appResourceUrl}/images/widget_40/1666173244764.png",
+    "created": 1666173244764,
+    "resourcesPrefix": "images/widget_40",
+    "referedIds": [],
+    "originId": "1666173244764",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 305,
+    "originalHeight": 70
+  }
+}

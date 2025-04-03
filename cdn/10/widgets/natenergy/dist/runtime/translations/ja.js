@@ -1,0 +1,1 @@
+export default{_widgetLabel:"チェックボックス",btnName1:"全表示",btnName2:"全消去",usage11:"運転中",usage12:"開発中",usage13:"促進区域",usage14:"有望区域",usage15:"準備区域",usage16:"その他",usage31:"500 kV",usage32:"220-275 kV",usage33:"110-187 kV",usage34:"33-77 kV",usage35:"変電所",usage71:"20 - 50 m",usage72:"50 - 100 m",usage73:"100 - 150 m",usage74:"150 - 200 m",language:"ja"};
